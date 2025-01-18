@@ -1,0 +1,150 @@
+[
+    {
+        "card_name": "Active Cash Visa Card",
+        "section_type": "Interest Rates and Interest Charges",
+        "details": [
+            {
+                "type": "Annual Percentage Rate (APR) for Purchases",
+                "value": "0.00% introductory APR for 12 months from date of account opening. After that, your APR will be 19.24%, 24.24%, or 29.24%, based on your creditworthiness. This APR will vary with the market based on the U.S. Prime Rate."
+            },
+            {
+                "type": "Annual Percentage Rate (APR) for Balance Transfers",
+                "value": "0.00% introductory APR for 12 months from date of account opening. After that, your APR will be 19.24%, 24.24%, or 29.24%, based on your creditworthiness. This APR will vary with the market based on the U.S. Prime Rate. A balance transfer request must be made within 120 days from account opening to qualify for the introductory APR. Balance Transfers are subject to eligibility."
+            },
+            {
+                "type": "APR for Cash Advances and Overdraft Protection Advances",
+                "value": "29.99%. This APR will vary with the market based on the U.S. Prime Rate."
+            },
+            {
+                "type": "How to Avoid Paying Interest on Purchases",
+                "value": "Your due date is at least 25 days after the close of each billing period. We will not charge you interest on purchases if you pay your entire balance by the due date each month."
+            },
+            {
+                "type": "Minimum Interest Charge",
+                "value": "If you are charged interest, the charge will be no less than $1.00."
+            },
+            {
+                "type": "For Credit Card Tips from the Consumer Financial Protection Bureau",
+                "value": "To learn more about factors to consider when applying for or using a credit card, visit the website of the Consumer Financial Protection Bureau at https://www.consumerfinance.gov/learnmore.*"
+            }
+        ]
+    },
+    {
+        "card_name":"Active Cash Visa Card",
+        "section_type":"Fees",
+        "details":[
+            {
+                "type":"Annual Fees",
+                "value":"None"
+            },
+            {
+                "type":"Transaction Fees",
+                "value":[
+                    {
+                        "type":"Balance Transfer",
+                        "value":"Introductory fee of either $5 or 3% of the amount of each balance transfer, whichever is greater, for 120 days from account opening. After that, up to 5% for each balance transfer, with a minimum of $5."
+                    },
+                    {
+                        "type":"Cash Advance",
+                        "value":"Either $10 or 5% of the amount of each advance, whichever is greater."
+                    },
+                    {
+                        "type":"Foreign Transaction",
+                        "value":"3% of each transaction converted to U.S. dollars."
+                    }
+                ]
+            },
+            {
+                "type": "Penalty Fees",
+                "value": [
+                    {
+                        "type": "Late Payment",
+                        "value": "Up to $40"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "card_name": "Active Cash Visa Card",
+        "section_type": "How we will calculate your balance",
+        "details": [
+            {
+                "question": "How we will calculate your balance",
+                "answer": "We use a method called 'average daily balance (including new purchases).' We will begin charging interest on cash advances and balance transfers on the transaction date."
+            }
+        ]
+    },
+    {
+        "card_name": "Active Cash Visa Card",
+        "section_type": "Important Details About Using This Credit Card Account",
+        "details": [
+            {
+                "question": "What is this application for?",
+                "answer": "This application is for a credit card account with Wells Fargo Bank, N.A."
+            },
+            {
+                "question": "What do you agree to by applying for this credit card account?",
+                "answer": "Correct Information: You agree that all the information you provided in this application is true, correct, and complete. Legal Capability: You agree that you can legally enter into the Consumer Credit Card Customer Agreement and Disclosure Statement (Agreement). Marital Status: Regardless of your marital status, you are applying for a credit card account in your own name. Account Agreement: You agree to the terms and conditions of the Agreement which will be sent to you. You can also access the Agreement by accessing this link: https://www.wellsfargo.com/credit-cards/agreements/active-cash-agreement/. Please note that the Agreement’s terms may change at any time, subject to applicable law. Arbitration Terms: You agree to the arbitration terms included in the Agreement. You can access the arbitration terms by accessing this link: https://www.wellsfargo.com/credit-cards/agreements/active-cash-agreement/. Financial Liability: By using this account, you are financially liable (responsible) for any amount you charge or authorize another to charge, including any amounts by any authorized users. Verification: By applying for this credit card account, you agree that we may:Verify or check any of the information you give us, Obtain credit reports about you, Investigate your credit, employment, and income history, Investigate your state records, including state employment security agency records, Report information about your account to consumer reporting agencies. You also agree that we may obtain a consumer report from consumer reporting agencies to do the following: Consider your application, Update, renew, extend credit, review, or collect money on this Account. Upon your request, we will tell you the name and address of each consumer reporting agency that provides us a consumer report about you."
+            },
+            {
+                "question": "Will you qualify if you have or have had more than one Wells Fargo Credit Card account?",
+                "answer": "You may not qualify for an additional Wells Fargo-branded credit card if you have opened a Wells Fargo-branded credit card in the last 6 months. Eligibility for introductory rates, fees and/or rewards bonus offers: You may not be eligible for introductory annual percentage rates, fees and/or rewards bonus offers if you have a Wells Fargo Active Cash Visa® or opened one within the last 48 months from the date of this application - even if that account is closed and has a $0 balance."
+            },
+            {
+                "question": "What procedures do we use to verify your identity when you open an Account?",
+                "answer": "To help the government fight the funding of terrorism and money laundering activities, U.S. Federal law requires financial institutions to obtain, verify, and record information that identifies each person (individual or business) who opens an account. What this means for you: When you open an account, we will ask for your name, address, date of birth, and other information that will allow us to identify you. We may also ask for your driver’s license or other identifying information."
+            },
+            {
+                "question": "How do we review this application?",
+                "answer": "You agree that we can review your criteria to determine which products you qualify for and how much credit we will give you. Further, you agree that we will give you the product and pricing you qualify for."
+            },
+            {
+                "question": "What should you do once you receive your new card?",
+                "answer": "As soon as your new card arrives, please confirm with us that you received it. You can confirm your card by using one of many convenient methods that we provided with your card. If you do not confirm your card, your requests for certain services may be delayed, such as: Balance transfers, Overdraft Protection, Wells Fargo Online®, ATM access.Further, you may also be denied access to your Account."
+            },
+            {
+                "question": "What is the minimum credit limit?",
+                "answer": "The minimum credit limit is $1,000.00."
+            },
+            {
+                "question": "How do we calculate your variable APRs?",
+                "answer": "A variable APR is an interest rate that varies with the market based on the U.S. Prime Rate. To calculate your variable APR for each billing period, we use the U.S. Prime Rate and add a margin."
+            },
+            {
+                "question": "How do we verify information from phone service providers?",
+                "answer": "You agree that we may contact your past, present, and future phone service providers to verify information that you gave us including any phone numbers against their records about you (such as name, address and account status)."
+            }
+        ]
+    },
+    {
+        "card_name":"Active Cash Visa Card",
+        "section_type": "Summary of the Wells Fargo Rewards Program Terms and Conditions and the Wells Fargo Active Cash Addendum",
+        "details": [
+            {
+                "question": "What do you earn by participating in the Program?",
+                "answer": "In this Program, you have a Rewards Account, which holds, calculates, or collects Rewards. These Rewards can be either Cash Rewards (including Rebates, which you will earn as Cash Rewards) or Points. Rewards only have cash value when or after you redeem them."
+            }, 
+            {
+                "question": "How do we calculate Cash Rewards?",
+                "answer": "For every $1.00 you spend with this Credit Card for net purchases, you earn two cents ($0.02) in Cash Rewards. Net purchases are purchases you make minus any returns and/or credits you have. We round the amount to the nearest whole dollar."
+            }, 
+            {
+                "question": "What can reduce or eliminate your Cash Rewards?",
+                "answer": "You will lose earned Cash Rewards if you return a purchase or receive credit from a disputed purchase. As a result, you may create a negative Cash Rewards balance, which will appear in your Rewards Account within one to two billing periods. We will calculate this negative balance into your Rewards Balance as you continue to buy items or do other non-credit card activity."
+            }, 
+            {
+                "question": "Do Cash Rewards expire?",
+                "answer": "Cash Rewards do not expire while the Credit Card Account is open."
+            }, 
+            {
+                "question": "What happens to your Cash Rewards if you pay your Credit Card late?",
+                "answer": "Your Credit Card becomes delinquent (late) when you do not pay your required payment by its due date. When this happens, your ability to redeem Rewards will not change."
+            }, 
+            {
+                "question": "Can you cancel your Cash Rewards Program?",
+                "answer": "Yes. You can cancel your Cash Rewards by closing your Credit Card Account. The following conditions apply: If you have closed all your Rewards-eligible Credit Cards: You give up any pending or active Rewards that exist on the date that the Account closes. The only exceptions are what may exist in the Terms. If you have multiple Credit Cards in your Rewards Account and you close one Credit Card: Your Rewards still stay in your Rewards Account."
+            }
+        ]
+    }
+]
